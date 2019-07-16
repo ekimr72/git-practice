@@ -12,3 +12,7 @@ and current branch
 - git checkout: Check out branch (update HEAD and apply changes
   to working directory)
 - git merge: Merge changes from different branches
+
+## Merging
+
+Merging means to bring the changes from one branch into another.
