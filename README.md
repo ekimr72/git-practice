@@ -13,6 +13,9 @@ and current branch
   to working directory)
 - git branch -c: Create a branch
 - git merge: Merge changes from different branches
+- git remote add <remote> <url>: Add a new <remote> at <url>
+- git remote -v: List remote repositories
+- git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
 
 ## Merging
 
