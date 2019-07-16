@@ -11,6 +11,7 @@ and current branch
 - git log: Show a history (aka "log") of project commits
 - git checkout: Check out branch (update HEAD and apply changes
   to working directory)
+- git branch -c: Create a branch
 - git merge: Merge changes from different branches
 
 ## Merging
@@ -23,3 +24,5 @@ the current branch since then.
 - An automatic merge happens when the two histories have
 diverged, but git is able to reconcile them into one set of
 changes. This creates a new commit on the current branch.
+
+# Added this
